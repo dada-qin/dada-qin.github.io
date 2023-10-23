@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello everyone, my name is Yanzhao Qin. I am currently a first-year doctoral student at Peking University. I specialize in computer science, with a research focus on data-centric AI. I have the privilege of conducting my research under the guidance of Prof. Bin Cui.
+
+My research interests revolve around the integration of data science and artificial intelligence, exploring how to leverage big data and machine learning techniques to solve real-world problems. I am particularly interested in areas such as data mining, data analysis, and knowledge graphs. I am dedicated to developing innovative algorithms and methods to enhance the efficiency and accuracy of data processing and decision-making processes.
+
+If you are interested in my research area or potential collaborations, please feel free to reach out to me via email at qinyanzhao123@pku.edu.cn. I look forward to engaging in academic discussions and working together with fellow researchers to advance the field of data-centric AI.
+
+Thank you for your attention!
 
 A data-driven personal website
 ======
