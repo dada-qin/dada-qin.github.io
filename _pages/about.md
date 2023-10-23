@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year doctoral student from School of Coumputer Science, Peking University, with a research focus on data-centric AI. I have the privilege of conducting my research under the guidance of Prof. Bin Cui.
+Welcome to my personal homepage! I’m Yanzhao Qin, a doctoral student in the [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm) at [Peking University](https://english.pku.edu.cn/), under the guidance of Professor [Bin Cui](https://cuibinpku.github.io/). My research focuses on data-centric AI, specifically exploring the intersection of data analysis and artificial intelligence.
 
-My research interests revolve around the integration of data science and artificial intelligence, exploring how to leverage big data and machine learning techniques to solve real-world problems. I am particularly interested in areas such as data mining, data analysis, and knowledge graphs. I am dedicated to developing innovative algorithms and methods to enhance the efficiency and accuracy of data processing and decision-making processes.
-
-If you are interested in my research area or potential collaborations, please feel free to reach out to me via email at qinyanzhao123@pku.edu.cn. I look forward to engaging in academic discussions and working together with fellow researchers to advance the field of data-centric AI.
-
-Thank you for your attention!
+Contact
+I’m open to collaborations, discussions, and connecting with fellow researchers and industry professionals. Please feel free to contact me via email at qinyanzhao123@pku.edu.cn. 
