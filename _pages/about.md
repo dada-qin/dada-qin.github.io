@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. candidate in [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm) at [Peking University](https://english.pku.edu.cn/), under the guidance of Professor [Bin Cui](https://cuibinpku.github.io/). My research interest is in Data-centric ML. Please feel free to contact me via email at qinyanzhao123@pku.edu.cn. 
+I’m a Ph.D. candidate in [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm) at [Peking University](https://english.pku.edu.cn/), advised by [Prof. Bin Cui](https://cuibinpku.github.io/). My research interest is in Data-centric ML. Please feel free to contact me via email at qinyanzhao123@pku.edu.cn. 
